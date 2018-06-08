@@ -1,0 +1,49 @@
+.jajo{
+	width:500px;
+	height:500px;
+	border: 1px solid #222;
+	margin:50px auto 0 auto;
+	position:relative;
+	overflow:hidden;
+}
+.dupa{
+	background:url("../img/4.jpg") center center;
+	position:absolute;
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:0px;
+	background-color:#F0F;
+	z-index:1;
+	background-size:cover;
+	transition:all 5s ease;
+	
+}
+.jajo:hover .dupa{
+	transform:scale(1.2);
+}
+.batory{
+	position:absolute;
+	top:100%;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:2;
+	background:rgba(0,0,150,0.5);
+	transition:all 1s ease;
+}
+.jajo:hover .batory{
+	top:0;
+}
+.wilk{
+	z-index:3;
+	color:#FFF;
+	position:absolute;
+	bottom:-100%;
+	left:2%;
+	font-size:25px;
+}
+.jajo:hover .wilk{
+	top:0;
+	transition:all 1.5s ease;
+}

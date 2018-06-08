@@ -1,0 +1,6 @@
+galeria zdjêæ 
+9 w 3 rzêdach
+ka¿de zdj po 300px na 300px
+1 rz¹d zawsze widoczne zdjêcia
+2 rz¹d pokryte w 100% kafelka
+3 rz¹d wycentrowane i 80% szerokoœci

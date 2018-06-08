@@ -1,0 +1,49 @@
+.dupa{
+	border:1px solid #222;
+}
+.dupa a{
+	background:#222;
+	color:#FFF;
+	padding:10px;
+	text-decoration:none;
+	margin:25px;
+	display:block;
+	float:left;
+}
+.clearfix{
+	clear:both;
+}
+.menu {
+	display:none;
+	background:#222;
+	text-align:center;
+	color:#FFF;
+	font-size:20px;
+	border-bottom:1px solid #111;
+	padding:10px;
+}
+@media (max-width:800px){
+	.dupa a{
+		float:none;
+		border-bottom:1px solid #111;
+		border-top:1px solid #333;
+		margin:0;
+		text-align:center;
+	}
+		.menu{
+			display:block;
+		}
+
+	.dupa
+	{
+		position:fixed;
+		left:0;
+		right:0;
+		bottom:-200px;
+		z-index:100;
+		transition:all 1s ease;
+}
+		.aktywna
+		{bottom:0;
+		}
+}

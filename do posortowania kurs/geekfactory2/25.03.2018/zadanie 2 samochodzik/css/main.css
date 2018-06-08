@@ -1,0 +1,37 @@
+.box{
+	border:1px solid #000;
+	position:relative;
+	width:800px;
+	height:400px;
+	margin:20px;
+	float:left;
+}
+.ball1, .ball2{
+	width:20px;
+	height:20px;
+	position:absolute;
+	top:0px;
+	background:#F92;
+	-webkit-transition:all 1000ms ease;
+	-moz-transition: all 1000ms ease;
+	-ms-transition: all 1000ms ease;
+	-o-transition: all 1000ms ease;
+	transition: all 1000ms ease;
+}
+.box:hover .ball1{
+	top:480px;
+	left:0;
+}
+
+.box .ball2{
+animation:dupa 20s 2;}
+
+@keyframes dupa{
+	0%{top:0px;left:0;}
+	15%{top:0px;left:97.6%;}
+	20%{top:100%;right:0%;}
+	30%{top:97.6%;right:0;}
+	50%{top:97.6%;right:100%;}
+	65%{top:95.5%;right:150%;}
+	100%{top:0px;left:0;}
+}

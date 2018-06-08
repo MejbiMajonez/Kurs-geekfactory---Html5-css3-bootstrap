@@ -1,0 +1,32 @@
+.block { 
+  width: 200px;
+  height: 200px;
+}
+.float { float: left; }
+.clear { clear: left; }
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }
+#container {
+  width: 960px;
+  margin: 0 auto;
+}
+ 
+#content {
+  float: left;
+  width: 660px;
+  background: #fff;
+}
+ 
+#navigation {
+  float: right;
+  width: 300px;
+  background: #eee;
+}
+ 
+#footer {
+  clear: both;
+  background: #aaa;
+  padding: 10px;
+}

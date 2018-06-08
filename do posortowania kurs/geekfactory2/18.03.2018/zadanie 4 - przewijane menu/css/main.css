@@ -1,0 +1,12 @@
+.nav{
+	background:#F0F;
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	z-index:100;
+	
+}
+h3 {
+	padding-top:100px;
+}

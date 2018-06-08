@@ -1,0 +1,26 @@
+body {
+	background-image:url("../img/doodles.png");
+}
+
+.sidenav {
+	position:fixed;
+	top:0;
+	right:0;
+	border:10px dashed #F00;
+	margin-top:110px;
+	z-index:100;
+	background-color:#0F0;
+	overflow:hidden;
+	text-align:center;
+	padding-right:5px;
+	padding-left:5px;
+}
+a:hover{
+background-color:#FFF;}
+.strona{
+	padding-right:100px;
+	margin-bottom:5000px;
+}
+.clearfix{
+	clear:both;
+}

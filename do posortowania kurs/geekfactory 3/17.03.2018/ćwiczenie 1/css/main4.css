@@ -1,0 +1,25 @@
+body{
+	background:url("../img/happy.png")right top no-repeat;
+	background-attachment:fixed;
+
+
+
+
+}
+
+
+
+
+
+.box {
+	border:1px solid #000;
+	width:500px;
+	height:500px;
+	margin:1550px auto;
+	/*background-color:#F0F;
+	background-image:url("../img/happy.png");
+	background-repeat:no-repeat;
+	background-position:right bottom;*/
+	background:#222 url("../img/zenua.jpg") center center no-repeat;
+	background-size: cover;
+}

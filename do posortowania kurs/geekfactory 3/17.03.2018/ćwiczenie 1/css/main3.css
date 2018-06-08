@@ -1,0 +1,17 @@
+.dupa{
+	list-style-position:inside;
+	list-style-image:url("../img/happy.png");
+	
+	
+}
+.dupa2 {
+list-style-position:inside;
+	list-style-image:url("../img/dead.png");
+
+}
+.dupa3{
+	
+list-style-position:inside;
+	list-style-image:url("../img/sad.png");
+}
+}

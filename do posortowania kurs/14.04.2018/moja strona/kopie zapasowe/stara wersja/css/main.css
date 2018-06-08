@@ -1,0 +1,26 @@
+body{
+	background-image:url("../dodatki/doodles.png");
+	margin-bottom:5000px;
+}
+.cl1	{
+	text-align:center;
+}
+.cl2 {
+	margin-right:100px;
+	margin-left:50px;
+}
+.sidenav {
+	background-image:url("../dodatki/leather_1.png");
+	text-align:center;
+	position:fixed;
+	height:50px;
+	width:50px;
+	top: 0;
+	right:0;
+	margin-top:60px;
+	margin-right:20px;
+	border: 1px solid #0F0;
+}
+.clearfix{
+	clear:both;
+}

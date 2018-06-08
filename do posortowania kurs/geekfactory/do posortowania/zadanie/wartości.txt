@@ -1,0 +1,5 @@
+Niebieski = #00f
+ciemno niebieski= #0000bf
+ró¿owy = #ff00e6
+seledynowy = #0cfebe
+pomarañczowy =#fe7f00

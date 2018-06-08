@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>Zadanie 4 - formularze - 08.04.2018 formularz</title>
+			<meta name="keywords" content="bootstrap">
+			<!--Fonts-->
+			
+			<!--Plugins-->
+			<script src="plugins/bootstrap-4.0.0-dist/ext/jquery.js"></script>
+			<script src="plugins/bootstrap-4.0.0-dist/ext/popper.js"></script>
+			
+			<link rel="stylesheet" href="plugins/bootstrap-4.0.0-dist/css/bootstrap.min.css">
+			<script src="plugins/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+			<!--Moje pliki-->
+			<script src="js/main.js"></script>
+			<link rel="stylesheet" href="css/main.css">
+			
+			
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		</head>
+			<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+						
+						<form method="POST" action="" enctype="multipart/form-data">
+						<!--- START --->
+					<div class="form-group">
+						<label for="i1">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i1" placeholder służy jako tekst początkowy --->
+							<input type="text" placeholder="dupa" name"i1" id="i1" class="form-control" value="test">
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i2">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i2" placeholder służy jako tekst początkowy --->
+							<input type="email" placeholder="dupa" name"i2" id="i2" class="form-control">
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i3">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i3" placeholder służy jako tekst początkowy --->
+							<input type="password" placeholder="dupa" name"i3" id="i3" class="form-control">
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i4">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i4" placeholder służy jako tekst początkowy --->
+							<input type="color" placeholder="dupa" name"i4" id="i4" class="form-control">
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i5">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i4" placeholder służy jako tekst początkowy --->
+							<input type="date" placeholder="dupa" name"i5" id="i5" class="form-control" value="2018-04-08">
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i6">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i6" placeholder służy jako tekst początkowy --->
+							<input type="text" placeholder="dupa" name"i6" id="i6" class="form-control" value="test" disabled>
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i7">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i7" placeholder służy jako tekst początkowy --->
+							<input type="text" placeholder="dupa" name"i7" id="i7" class="form-control" value="2018-04-08" readonly>
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i8">text</label>
+						<!--- "><"  w tekstarea nie może być nic! ,,label for" służy połączenia do indentyfikatora i8" placeholder służy jako tekst początkowy --->
+						<textarea class="form control" id="i8" name="i8" placeholder="test" rows="20">jajo</textarea>
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i9">text</label>
+						<!--- ,,label for" służy połączenia do indentyfikatora i9" placeholder służy jako tekst początkowy --->
+							<input type="file" placeholder="dupa" name"i9" id="i9" class="form-control">
+							<p class="help-block">Info</p>
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!--- START --->
+					<div class="form-group">
+						<label for="i10">text</label>
+							<select class="form-control" id="i10" name="i10">
+								<option selected>Polska</option>
+						        <option value=2>Niemcy</option>
+								<option value=3>Rosja</option>
+							</select>
+							<!--- DOPISUJEMY SELECTED TAM GDZIE CHCEMY ŻEBY ZAZNACZONE BYŁO PIERWSZE --->
+					</div>
+						
+						<!--- form control stylizuje formularz --->
+						<!--- STOP --->
+						<!---START --->
+						<div class="checkbox">
+							<div class="row">
+								<div class="col-md-3">
+									<label>
+										<input type="checkbox" name="zupa">Rosół
+									</label>
+								</div>
+								<div class="col-md-3">
+									<label>
+										<input type="checkbox" name="zupa2">Barszcz
+									</label>
+								</div>
+							</div>
+						</div>
+						
+						<!--- STOP --->
+						<!---START --->
+						<div class="checkbox">
+							<div class="row">
+								<div class="col-md-3">
+									<label>
+										<input type="radio" name="sex">Samica
+									</label>
+								</div>
+								<div class="col-md-3">
+									<label>
+										<input type="radio" name="sex" checked>Samiec
+									</label>
+								</div>
+							</div>
+						</div>
+						
+						<!--- STOP --->
+						<!---START --->
+						<div class="checkbox">
+							<div class="row">
+								<div class="col-md-12" style="margin-top:20px">
+									<button type="reset" class="btn btn-danger float-left">Reset</button>
+									<button type="submit" class="btn btn-danger float-right">Wyślij</button>
+									<input type="submit" class="btn btn-info float-right" value="prześlij"/>
+								</div>
+								
+									
+							</div>
+						</div>
+						
+						<!--- STOP --->
+						</form>
+						
+						
+						
+						
+						
+						
+						
+						
+					
+				</div>
+			</div>
+		</div>
+			
+			</body>
+</html>

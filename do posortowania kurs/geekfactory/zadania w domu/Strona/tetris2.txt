@@ -1,0 +1,5 @@
+<!-- Hey Webmaster! Place this html code where you'd like the game to appear. -->
+<iframe src="https://www.silvergames.com/en/tetris/iframe" width="600" height="600" style="margin:0;padding:0;border:0"></iframe>
+<p style="text-align:center">More <a href="https://www.silvergames.com/en/t/tetris">Tetris Games</a> on Silvergames.com!</p>
+<!-- End of game embed code -->
+    

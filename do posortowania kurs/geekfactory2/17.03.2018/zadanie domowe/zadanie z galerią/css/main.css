@@ -1,0 +1,22 @@
+.strona{
+	margin:500px;
+}
+.menu{
+	background-color:#F00;
+	padding:20px;
+}
+.menu a{
+	background:#0F0;
+	padding:20px;
+	margin:10px;
+	display:block;
+	float:left;
+}
+.picture{
+	padding:20px;
+	margin:10px;
+	display:inline-block;
+}
+.clearfix{
+	clear:both;
+}

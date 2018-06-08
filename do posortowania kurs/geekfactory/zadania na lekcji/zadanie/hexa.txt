@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Color name test</title>
+    <style>body{background-color:green;color:white;}</style>
+</head>
+<body>
+    <h1 id="foo"></h1>
+    <script>
+        setTimeout(function ()
+        {
+            var start = performance.timing.domLoading;
+            document.getElementById("foo").innerHtml = 
+              performance.timing.msFirstPaint - start;
+        }, 1000);
+    </script>
+</body>
+</html>

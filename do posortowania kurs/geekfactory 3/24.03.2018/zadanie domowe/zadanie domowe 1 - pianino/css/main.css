@@ -1,0 +1,94 @@
+.container{
+	width:1000px;
+	margin:50px auto;
+	position:relative;
+	
+}
+.key1{
+	width:100px;
+	height:200px;
+	background:#FFF;
+	box-shadow: inset 0px 0px 3px 1px #777;
+	float:left;
+	transition:all 2s ease;
+	border-radius:0 0 10px 10px;
+}
+.key2{
+	width:40px;
+	margin-top:0px;
+	margin-left:276px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:4;
+	float:left;
+}
+.key3{
+	width:40px;
+	margin-top:0px;
+	margin-left:75px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:3;
+}
+.key4{
+	width:40px;
+	margin-top:0px;
+	margin-left:676px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:4;
+}
+.key5{
+	width:40px;
+	margin-top:0px;
+	margin-left:575px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:4;
+}
+.key6{
+	width:40px;
+	margin-top:0px;
+	margin-left:777px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:4;
+}
+.key7{
+	width:40px;
+	margin-top:0px;
+	margin-left:382px;
+	height:60%;
+	background:#000;
+	border-bottom:1px solid #ddd;
+	position:absolute;
+	border-radius:0 0 5px 5px;
+	z-index:4;
+	
+}
+.key7:hover{
+	display:none;
+	position:absolute;
+}
+.clearfix{
+	clear:both;
+}
+.key1:hover{
+	transition: 1s ease;
+	height:220px;
+	}

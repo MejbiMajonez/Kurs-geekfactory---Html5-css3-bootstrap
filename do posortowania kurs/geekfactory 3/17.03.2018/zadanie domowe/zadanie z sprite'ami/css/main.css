@@ -1,0 +1,52 @@
+.ico {
+	background-image:url("../img/9.jpg");
+	border:1px solid #000;
+}
+.strona{
+	margin:500px;
+}
+.ico1{
+	background-position:-192px -100px;
+	height:115px;
+	width:129px;
+}
+.ico2{
+	background-position:-333px -91px;
+	height:131px;
+	width:110px;
+}
+.ico3{
+	background-position:-465px -101px;
+	height:111px;
+	width:144px;
+}
+.ico4{
+	background-position:608px 372px;
+	height:146px;
+	width:129px;
+}
+.ico5{
+	background-position:-333px -236px;
+	height:131px;
+	width:110px;
+}
+.ico6{
+	background-position:-482px -234px;
+	height:131px;
+	width:110px;
+}
+.ico7{
+	background-position:-196px -388px;
+	height:118px;
+	width:120px;
+}
+.ico8{
+	background-position:-331px -384px;
+	height:125px;
+	width:114px;
+}
+.ico9{
+	background-position:-480px -394px;
+	height:105px;
+	width:114px;
+}

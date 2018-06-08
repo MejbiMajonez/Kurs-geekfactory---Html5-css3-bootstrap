@@ -1,0 +1,52 @@
+jeœli wszystkie wartoœci s¹ takie same to kolor jest w skali szaroœci
+
+
+>>>>>>>>PRZYPOMNIJ SOBIE<<<<<<
+NAUCZYÆ SIÊ KOLORÓW W HEXA!!!
+œcie¿ka wzglêdna i bezwzglêdna
+target:"_blank"
+pay per click
+
+zajêcia:
+jeœli klient chce reklamy w googlu musz¹ siê zg³osiæ do vatu unijnego (+23%vat)
+
+<HR> <<<< linie oddzielaj¹ce
+<ol> <<<< order list (lista uporz¹dkowana)
+<ul> <<<< unorder list (lista nieuporz¹dkowana)
+<li> <<<< elementy (numerki b¹dŸ kropki)
+
+
+POÆWICZ ROBIENIE LIST!!!!
+
+kolumny zawsze musz¹ siê zgadzaæ!!!
+<tabelki>
+
+colspan - scala wiersze
+rowspan - scala kolumny
+
+td
+tr za wiersze!!!
+nie zapomnij o wciêciach!!!!
+th ró¿ni siê tym ¿e jest pogrubione i niekiedy wycentrowane
+thead - g³owa tabeli
+tbody - cia³o tabeli
+
+iframe - udostêpnij mapkê/druga zak³adka i skopiuj link do body
+
+<iframe src"XYZ" width="x%" heigh="450">
+
+
+
+>>>>>>>>>>>>>ZADANIE DOMOWE<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+Przygotowaæ strony internetowe o sobie nawzajem!!!!
+conajmniej 3 podstrony [home galeria kontakt]
+
+Home - podstawowe informacje i jej hobby, ulubiona muzyka wstawiona z youtube
+galeria - kilka zdjêæ + dodatkowy opis i 9 zdjêæ
+kontakt - informacje kontaktowe i mapka
+
+zakaz u¿ywania facebooka (tylko do komunikacji
+
+

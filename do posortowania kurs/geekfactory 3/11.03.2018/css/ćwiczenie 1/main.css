@@ -1,0 +1,19 @@
+*{
+	font-size:60px;
+}
+body{
+
+	background:#0F0;
+	}
+	u{
+		color:#008;
+		text-decoration:none;
+	}
+	#dupa1{
+	color:#F00;
+	}
+	.jajo {
+		letter-spacing:5px;
+	}
+	.kura .jajo{
+		font-style:italic;

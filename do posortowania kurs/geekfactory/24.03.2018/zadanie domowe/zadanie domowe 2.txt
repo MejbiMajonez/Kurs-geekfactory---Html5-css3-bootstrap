@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+		PROSTOK¥T
+		T£O : ZDJÊCIE (COŒ OGÓLNEGO)
+		MA BYÆ LEKKO WYBLURROWANIE
+		BEZ HALO (WPAKOWAÆ W DRUGI KONTENER)
+		W ŒRODKU ZDJÊCIE NASZE W KÓ£KU (CZARNO-BIA£E)
+		POD SPODEM
+		NAPIS (NA POCZ¥TKU NIE BÊDZIE WIDOCZNY = OPACITY 0)
+		PO NAJECHANIU NA G£ÓWNY KONTENER
+		ZDJÊCIE BÊDZIE OKR¥G£E ALE NADAL KOLOROWE
+		WJEDZIE BACKGROUND KTÓRY POKA¯E NAM IMIÊ I NAZWISKO
+		DO ZDJÊCIA W TLE DODAJEMY SEPIÊ
+
+			
+		_____________________
+		|		    |
+		|   (nasza fota)    |
+		|		    |
+		|  [imiê i nazw.]   |
+		|		    |
+		|		    |
+		---------------------

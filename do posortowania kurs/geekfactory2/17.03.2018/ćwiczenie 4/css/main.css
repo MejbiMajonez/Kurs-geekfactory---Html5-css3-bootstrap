@@ -1,0 +1,14 @@
+.menu{
+	background-color:#F00;
+	padding:20px;
+}
+.menu a{
+	background:#0F0;
+	padding:20px;
+	margin:10px;
+	display:block;
+	float:right;
+}
+.clearfix{
+	clear:both;
+}

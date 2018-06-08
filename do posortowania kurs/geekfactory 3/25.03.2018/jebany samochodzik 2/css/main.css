@@ -1,0 +1,33 @@
+.tor-out{
+	position:relative;
+	width:800px;
+	height:400px;
+	outline:1px solid #000;
+}
+.tor-in{
+	position:absolute;
+	top:20px;
+	left:20px;
+	width:760px;
+	height:360px;
+	outline:1px solid#000;
+}
+.auto{
+	position:absolute;
+	height:20px;
+	width:20px;
+	background:#F00;
+	top:0;
+	left:0;
+	animation:dupa 20s linear 2;}
+
+@keyframes dupa{
+	0%{top:0;left:0;}
+	33.33%{top:0;left:780px;}
+	50%{top:380px;left:780px;
+	transform:rotate(0deg)}
+	66.66%{top:380px;left:390px;
+	transform:rotate(45deg);}
+	83.33%{top:380px;left:0;
+	transform:rotate(0deg);}
+	100%{top:0;left:0;}

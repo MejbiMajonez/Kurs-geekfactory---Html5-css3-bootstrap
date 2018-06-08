@@ -1,0 +1,19 @@
+.kontener{
+		height:400px;
+		display:flex;
+		border:1px solid #000;
+		flex-wrap:wrap;
+		flex-direction:row;
+		justify-content:space-between;
+		align-items:center;
+		align-content:stretch;
+
+}
+.kontener div{
+	background:#F00;
+	width:100px;
+	margin:10px;
+	text-align:center;
+	line-height:75px;
+	font-size:30px;
+}

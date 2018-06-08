@@ -1,0 +1,29 @@
+@media (max-width:768px) { 
+	.dupa {
+		display:none 
+	}
+	.hide-md{
+		display:none;
+	}
+	.show-md{
+		display:inline;
+	}
+}
+@media (max-width:576px) {
+	.dupa {
+		display:inline-block;
+	}
+	.napis {
+		display:none;
+	}
+	.hide-sm{
+		display:none;
+	}
+	.show-sm{
+		display:inline;
+	}
+		
+}
+.hide-lg {
+		display:none;
+	}

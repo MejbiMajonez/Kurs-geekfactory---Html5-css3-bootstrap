@@ -1,0 +1,20 @@
+.sidenav {
+    height: 30px;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+	right:0;
+    background-color: #0F0;
+    overflow-x: hidden;
+    margin:20% 10px;
+	text-align:center;
+}
+.strona{
+	float:left;
+	margin-right:200px;
+	margin-bottom:1000px;
+}
+a:hover{
+	background:#FFF;
+}

@@ -1,0 +1,14 @@
+.ico {
+	background-image:url("../img/y.png");
+	border:1px solid #000;
+}
+.ico1{
+	background-position:0px 0px;
+	height:26px;
+	width:43px;
+}
+.ico2{
+	background-position:278px -2px;
+	height:25px;
+	width:24px;
+}

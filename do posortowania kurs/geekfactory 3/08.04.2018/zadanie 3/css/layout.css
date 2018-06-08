@@ -1,0 +1,10 @@
+.kura {
+	overflow:hidden;
+	height:200px;
+	width:400px;
+	padding: 20px;
+}
+.jajko {
+	overflow-y:scroll;
+	height:200px;
+}

@@ -1,0 +1,3 @@
+#333 = czarny
+#008 = granatowy/ciemno niebieski
+#C0C = ciemniejszy ró¿owy

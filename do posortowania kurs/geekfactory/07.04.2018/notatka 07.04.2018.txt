@@ -1,0 +1,21 @@
+dlaczego ja mam kupiæ serwer?: wyjaœnij klientowi, jaki serwer, op³aty, dobry wydajny serwer za cenê ma³ego, serwer za u³amek ca³ego
+poœrednictwo
+domena : nie daæ klientowi mo¿liwoœci poruszania siê, kupujemy jedn¹ nie 5, pozycjonowanie to inny temat czym jest content marketing (http://www.geekcity.pl/)
+Zadaæ sobie pytanie
+
+œredni-du¿y : najpopularniejsze rozmiary
+"col-md-9" najlepiej u¿ywaæ
+NIE MIESZAÆ ROWÓW Z COLAMI
+aby ostylowaæ tekst daæ osobnego diva!!!
+NIE U¯YWAÆ TYLKO BOOTSTRAPA DO TWORZENIA STRON
+
+
+
+NA ostatnie zdjêcie nasze zdjêcie + jakieœ fajne zdjêcie na t³o!!!
+
+content:''
+bo inaczej siê nie wyœwietli
+:before
+
+
+POWTÓRZ KNEFLE

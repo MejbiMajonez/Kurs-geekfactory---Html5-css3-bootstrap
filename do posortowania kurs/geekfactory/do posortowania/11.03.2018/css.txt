@@ -1,0 +1,39 @@
+pamiêtaj! <BR>!
+
+niewa¿ne czy <style> jest w body czy w head!!!
+
+komentowanie w css: /*xyz*/
+
+30 typów podstawowych
+5 typów selektorów wymaga!!!
+<u>selektor do taga podkreœlenie
+<div id="">xyz</div> selektor identyfikuj¹cy dany przedmiot, poprzedzamy go hashem. (brak polskich znaków, zaczynamy go od literki)
+<div class-"">xyz</div> selektor klasy, zaznaczamy go kropk¹. mo¿na do³o¿yæ wszêdzie ,,class="" 
+dziêki czemu mo¿emy dodaæ klasê do wszystkiego.
+RZADKO U¯YWANY *{xyz} selektor do wszystkiego - odwo³uje siê do wszystkich elementów strony
+
+
+
+
+index.html - szkielet
+main.css dekoracja
+
+
+nie zapisuj s³ownie kolorów!!!!
+ZADANIE DOMOWE NA ZDJÊCIU!!!!!!!!!!!!!!!!!!!!
+
+Zagnie¿dzanie dzia³a na zasadzie 
+<div class="kura">
+	<div class="jajo">test500</div>
+	</div>
+
+
+snippety
+œcie¿kê zmieniamy od przodu!!!!!!!!!!!
+
+pamiêtaj, ucz siê size'ów w PX!!!!!!!!!
+
+font-weight: (?)
+font-family:
+google fonts
+{latin extended polskie znaki}

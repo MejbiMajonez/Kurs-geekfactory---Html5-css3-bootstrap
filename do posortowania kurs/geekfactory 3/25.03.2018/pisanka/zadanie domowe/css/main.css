@@ -1,0 +1,141 @@
+.container{
+	border-radius:80%;
+	width:800px;
+	height:1000px;
+	border:2px solid #222;
+    text-align:center;
+	position:relative;
+	overflow:hidden;
+	padding:0;
+	z.index:1;
+}
+.sekcja1{
+	background-color:#F00;
+	height:100px;
+	width:100%;
+	animation:anime1 15s linear 2;
+}
+.sekcja2{
+	background-color:#0F0;
+	height:100px;
+	width:100%;
+	animation:anime2 17s linear 2;
+}
+.sekcja3 {
+	background-color:#00F;
+	height:100px;
+	width:100%;
+	animation:anime3 10s linear 2;
+}
+.sekcja4 {
+	background-color:#555;
+	height:100px;
+	width:100%;
+	animation:anime4 8s linear 2;
+}
+.sekcja5 {
+	background-color:#df1fdf;
+	height:100px;
+	width:100%;
+	animation:anime5 24s linear 2;
+}
+.sekcja6 {
+	background-color:#d2691e;
+	height:100px;
+	width:100%;
+	animation:anime6 28s linear 2;
+}
+.sekcja7 {
+	background-color:#03c03c;
+	height:100px;
+	width:100%;
+	animation:anime7 27s linear 2;
+}
+.sekcja8 {
+	background-color:#EEE;
+	height:100px;
+	width:100%;
+	animation:anime8 29s linear 2;
+}
+.sekcja9 {
+	background-color:#cf1020;
+	height:100px;
+	width:100%;
+	animation:anime9 4s linear 2;
+}
+.sekcjaA {
+	background-color:#5a4fcf;
+	height:100px;
+	width:100%;
+	animation:animeA 12s linear 2;
+}
+.clearfix{
+	clear:both;
+}
+div:hover{
+	background-color:#F0F;
+}
+
+@keyframes anime1 {
+	 0% {background-color:#0F0;}
+    25%  {background-color:#F00;}
+    50%  {background-color:#F0F;}
+    100% {background-color:#FF0;}
+
+}
+@keyframes anime2 {
+	 0% {background-color:#FF0;}
+    25%  {background-color:#F0F;}
+    50%  {background-color:#F00;}
+    100% {background-color:#0F0;}
+}
+@keyframes anime3 {
+	 0% {background-color:#F00;}
+    25%  {background-color:#F0F;}
+    50%  {background-color:#FF0;}
+    100% {background-color:#00F;}
+}
+@keyframes anime4 {
+	 0% {background-color:#4FCF5A;}
+    25%  {background-color:#CF5A4F;}
+    50%  {background-color:#800000;}
+    100% {background-color:#674c47;}
+}
+@keyframes anime5 {
+	 0% {background-color:#87ceeb;}
+    25%  {background-color:#eb86a5;}
+    50%  {background-color:#d586eb;}
+    100% {background-color:#3d0c02;}
+}
+@keyframes anime6 {
+	 0% {background-color:#f4a460;}
+    25%  {background-color:#bf00ff;}
+    50%  {background-color:#8cbed6;}
+    100% {background-color:#100c08;}
+}
+@keyframes anime7 {
+	 0% {background-color:#eb8587;}
+    25%  {background-color:#85ceeb;}
+    50%  {background-color:#ebdf85;}
+    100% {background-color:#ad9795;}
+}
+@keyframes anime8 {
+	 0% {background-color:#002e63;}
+    25%  {background-color:#dd4814;}
+    50%  {background-color:#c80815;}
+    100% {background-color:#da70d6;}
+}
+@keyframes anime9 {
+	 0% {background-color:#21abcd;}
+    25%  {background-color:#fff000;}
+    50%  {background-color:#0f225a;}
+    100% {background-color:#5f1479;}
+}
+@keyframes animeA {
+	 0% {background-color:#977618;}
+    25%  {background-color:#86a0eb;}
+    50%  {background-color:#14792c;}
+    100% {background-color:#731479;}
+}
+
+

@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	margin:0;
+}
+.kontener{
+	background-color:#2C3;
+	margin:10px auto;
+	width:1000px;
+	padding:100px;
+	
+}
+.box {
+	width:300px;
+	height:300px;
+	background-color:#2FA;
+	float:left;
+	overflow:hidden;
+	background-position:center center;
+	background-repeat:no-repeat;
+	
+	}
+	
+
+.clearfix{
+	clear:both;
+}
+img {
+    transition-duration: 3s;
+    margin: 0 auto;
+    display: block;
+}
+img:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    z-index: 0;;
+}

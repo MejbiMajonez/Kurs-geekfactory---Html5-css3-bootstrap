@@ -1,0 +1,31 @@
+.box{
+	border:1px solid #000;
+	width:500px;
+	height:500px;
+	margin:50px auto;
+	-webkit-border-radius: 50px;
+border-radius: 50px;
+-webkit-box-shadow: 15px 1px 50px 1px #000000;
+box-shadow: 15px 1px 50px 1px #000000;
+text-shadow: 0 0 1px #FF0505;
+background-color: rgba(255, 0, 255, 0.5);
+color: rgba(255, 0, 255, 1);
+-moz-column-count: 3;
+-moz-column-gap: 50px;
+-webkit-column-count: 3;
+-webkit-column-gap: 50px;
+column-count: 3;
+column-gap: 50px;
+resize: horizontal;
+overflow: auto;
+min-width: 50px; /*suggest a min-width & min-height*/
+min-height: 50px;
+-webkit-transition: color 100ms ease;
+-moz-transition: color 100ms ease;
+-ms-transition: color 100ms ease;
+-o-transition: color 100ms ease;
+transition: color 100ms ease;
+}
+.box:hover{
+	border-radius:0%;
+}

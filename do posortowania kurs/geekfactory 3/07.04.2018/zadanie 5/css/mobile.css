@@ -1,0 +1,13 @@
+@media (max-width:768px) { 
+	.dupa {
+		display:none 
+	}
+}
+@media (max-width:576px) {
+	.dupa {
+		display:inline-block;
+	}
+	.napis {
+		display:none;
+	}
+}

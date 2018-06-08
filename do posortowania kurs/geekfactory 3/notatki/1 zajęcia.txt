@@ -1,0 +1,209 @@
+-na pocz¹tku robiæ strony
+-lepiej jest przyjœæ do pracy maj¹c zrobione 5-6 stron
+-spotkania z w³asnymi klientami
+-informatyk = cz³owiek rozwi¹zuj¹cy problemy za pomoc¹ nowoczesnych technologii
+-nie ma czegoœ takiego jak informatyk do wszystkiego
+
+
+Co zrobiæ kiedy mamy klienta : 
+-trzeba mieæ umiejêtnoœci negocjacyjne
+-trzeva mieæ umiejêtnoœci programistyczne
+-w³asna dzia³alnoœæ (opcjonalne)
+-trzeba byæ grafikiem (lub mieæ grafika)
+-trzeba j¹ umieœciæ (trochê znaæ siê na serwerach)
+-kwestia administrowania strony (administracja SEO, SE)
+-(wysokie wymagania klienta [janusz]) 
+
+
+kto mo¿e zostaæ programist¹
+-trzeba byæ artyst¹
+-nigdy nie chodziæ na sta¿e (wykorzystywanie)
+
+
+Zarobki :
+-na pocz¹tek (ko³o 3000 na rêkê)
+-pierwsze zlecenie circa 500z³
+-jak zatrzymaæ klienta
+
+Zajêcia :
+
+Struktura HTMLA
+		HTML
+HEAD - g³owa (ustalamy rzeczy których u¿ytkownik nie widzi
+Body - treœæ dla naszej strony
+
+
+wciêcia w tabulatorze [WA¯NE]
+Robiæ wciêcia TAB-em
+
+najnowszy standard : Tagi nie zamkniête zamykamy w sposób ,,/>"
+
+
+CTRL+Z < NOWY NAJLEPSZY PRZYJACIEL
+Dobry programista to leniwy programista (co lubi sobie u³atwiaæ)
+
+
+-WinSCP
+-Notepad++
+-Chrome
+
+
+-Co to jest serwer i domena
+
+-(klient powinien/musi kupiæ domenê (w³asnoœæ klienta) [zawsze nak³aniaj]
+-przeprowadziæ go przez domenê
+- lepiej kupiæ serwer 
+- gdzie kupiæ serwer? (OVH, Home, nazwa.pl)
+
+jaki serwer kupiæ? na co zwróciæ uwagê?
+-koszty
+-standardy
+-pojemnoœæ
+-bazy danych (nie zawsze s¹)
+-KOSZTY UKRYTE (!!!)
+
+Jak omin¹æ koszty?
+-wyt³umaczyæ klientowi ¿e potrzebuje jedn¹ domenê
+-kupiæ serwera na promocji, zmieniæ typ serwera po roku (innego typu na promocji)
+-kazaæ p³aciæ klientowi za serwer co miesi¹c ~200z³
+
+
+Dlaczego nazwy pewnych terminów s¹ straszne?
+-¿eby odstraszyæ konkurencjê
+-nie martwiæ siê dziwnego jêzyka
+
+
+RGB (heksacymalny)
+(kolejnoœæ od lewej)
+1: Red 2: Green 3: Blue
+#FOF (ró¿owy)
+#FOO (czerwony)
+#OOF (niebieski)
+
+0 - to brak koloru
+15 - to pe³ny kolor
+
+kod decymalny (dziesiêtny)
+0,1,2,3,4,5,6,7,8,9,
+kod szestnaskowy (16)
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+(znaczki powy¿ej 9 zaczynaj¹ siê na 9)
+
+
+te kody to po prostu od 0 do x i wymyœlna nazwa
+
+
+#FFF (idealna biel)
+#EEE
+PISZEMY LITERY od 9
+
+na RGB jest nieco inna paleta barw
+
+na palecie mo¿emy mieæ 4096 na (skróceniu)
+na pe³nym mo¿emy mieæ ponad 10 mln
+
+#FF <decyduj¹ca FF<dope³nienie FF
+heksadecymalny (#FFF FF FF)
+rgb (255,255,255)
+
+SEO i SEM
+
+-proces optymalizacji strony
+-SEO - proces optymalizacji stron
+- metadefinicje (keywords,opis strony)
+-meta w polsce (wszystko, s³ownik)
+-treœæ strony
+-google nie rozpoznaje kolorów tylko kod
+-google daje wskazówki (popieroli³o ich ostatnio)
+
+
+Klient w SEO
+przyzwyczaiæ klienta do/zrobiæ : 
+- google search consol (szybciej na wyszukiwarce)
+- content management (s³owa kluczowe)
+- wype³niæ metê
+- NIE KOPIOWAÆ OPISÓW OD PRODUCENTÓW (google nie przypisuje punktów drugi raz)
+- prowadzenie strony (regularne wpisy, s³owa kluczowe z d³ugim ogonem)
+
+
+S³owa kluczowe
+- wymyœleæ jak to konkretnie ma wygl¹daæ (to co ludzie wpisz¹ w googlu)
+- NOTKA* POWIEDZIEÆ MARCINOWI ABY ZAPYTA£ KLIENTÓW JAK GO ZNALELI
+
+SEM 
+-pay per click
+-za rejestracjê (op³ata)
+- wielki ruch =/= wielka sprzeda¿
+
+
+
+PROGRAMOWANIE:
+
+FIFO-firs in, first out
+FILO- first in last out (t¹ stosujemy aktualnie)
+SISO- shit in shit out (gówno wrzucasz gówno wychodzi)
+
+
+TAGI NIE MOG¥ SIÊ KRZY¯OWAÆ
+
+Tekst na stronê - klient ma dostarczyæ materia³y!
+http://www.lipsum.pl/ < WA¯NEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!1
+
+Fotoria - zdjêcia
+Nie mo¿emy u¿ywaæ zdjêæ z googla
+
+Doliczyæ koszta zdjêæ!
+shutterstock
+pexels.com
+zwróciæ uwagê które s¹ do u¿ytku ogólnego!
+najlepsze zdêcia jakie dostarczy klient, dobrej rozdzielczoœci
+,,najlepsze logo jest zdjêcie osoby"
+
+
+A- anchor (kotwica)
+
+œcie¿ka wzglêdna - uwzglêdniamy miejsce w którym siê znajdujemy
+../ <- cofanie
+img/1.jpg
+zawsze od pliku
+zawsze trzeba siê cofaæ
+nie stosujemy znaków,du¿ych liter,polskich znaków
+
+zapisujemy œcie¿ki wzglêdne zapisujemy od pliku do pliku
+
+do zdjêcia nie wrzucisz strony!!!!!!
+jeœli coœ jest w tym samym folderze to musimy wrzuciæ tylko nazwê z do nastêpnego pliku.
+
+zawsze stronê wpiszemy od ,,http" albo ,,https"
+DO FOLDERU NIE DA SIÊ PODPI¥Æ STRONY!!!
+
+<A href="http:///xyz.pl" target="_blank title="jajo> <<<<SPRAWIA ¯E OTWIERA SIÊ NOWA STRONA <potrafi podnieœæ o 20% popularnoœæ>
+
+jak najedziemy myszk¹ i poczekamy podœwietli siê jajo
+
+NALE¯Y DO WSZYSTKICH ZDJÊÆ DODAWAÆ ,,alt="xyz" BO INACZEJ GOOGLE NIE BÊDZIE WIEDZIA£ CO JEST NA ZDJÊCIACH
+
+                >>>>NAG£ÓWKI<<<<<
+H1 POWININNO TO BYÆ JEDNO HAS£O NA CA£¥ WITRYNÊ
+H2 POWINNO BYÆ JEDNO NA PODSTRONÊ
+H3+ SEKCJA PODSTRON
+
+
+
+np: przyk³adowa strona
+------------------------------------------
+|        Has³o {h1}			 |
+|					 |
+|----------------------------------------|
+|Strona g³ówna (H2)			 |
+|                                        |
+|wpisy (H3)				 |
+|					 |
+|					 |
+|					 |
+|					 |
+-----------------------------------------|
+						
+>>>>>>FIX NA SZYBKO<<<<<<<
+5 <BR> <center> strona w budowie </center>
+NA SZYBKO

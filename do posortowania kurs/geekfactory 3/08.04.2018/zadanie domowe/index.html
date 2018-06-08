@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>zadanie domowe 07.04.2018</title>
+			<meta name="keywords" content="bootstrap">
+			<!--Fonts-->
+			
+			<!--Plugins-->
+			<script src="plugins/bootstrap-4.0.0-dist/ext/jquery.js"></script>
+			<script src="plugins/bootstrap-4.0.0-dist/ext/popper.js"></script>
+			
+			<link rel="stylesheet" href="plugins/bootstrap-4.0.0-dist/css/bootstrap.min.css">
+			<script src="plugins/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+			<!--Moje pliki-->
+			<script src="js/main.js"></script>
+			<link rel="stylesheet" href="css/main.css">
+			
+			
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		</head>
+			<body>
+			
+			
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12" style="margin-top:50px;">
+						<button type="button" class="btn btn-secondary" data-toggle="tooltip" 
+						data-placement="top" title="Tooltip on top">
+							Góra
+						</button>
+							<button type="button" class="btn btn-secondary" data-toggle="tooltip"
+							data-placement="right" title="Tooltip on right">
+							Prawa
+							</button>
+								<button type="button" class="btn btn-secondary" data-toggle="tooltip"
+								data-placement="bottom" title="Tooltip on bottom">
+								Dół
+								</button>
+									<button type="button" class="btn btn-secondary" data-toggle="tooltip"
+									data-placement="left" title="Tooltip left">
+									Lewa
+									</button>
+									<button type="button" class="btn btn-secondary" data-toggle="tooltip"
+								data-html="true" title="<em>Tooltip on bottom</em><br><u>który ma w sobie<u/><br><b>HTML</b>">
+								Tooltip z html
+								</button>
+					</div>
+					
+				</div>
+			</div>
+			
+			<script>
+				$( document ).ready(function(){
+					
+						$('.btn').tooltip();
+						});
+			</script>
+			
+			
+			
+			
+			
+			
+			
+			
+			</body>
+</html>

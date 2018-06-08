@@ -1,0 +1,35 @@
+Zmienione t³a
+uporz¹dkowaæ
+
+
+			------------------------------------
+			|	      |	| Tekst Tekst Tekst|
+			|  Galeria    | | Tekst tekst tekst|
+			|	      | | tekst tekst tekst|
+			|	      |			   |
+			|	      |			   |
+			------------------------------------
+			|Tekst tekst  |			   |
+			|Tekst tekst  |			   |
+			|Tekst tekst  |			   |
+			|	      |			   |
+			|----------------------------------|
+
+
+
+<p> Kiedy zacz¹³em pisaæ t¹ stronê pomyœla³em sobie ,,luz, damy radê w jeden dzieñ, bêdê mia³ spokój na resztê tygodnia" jak bardzo siê myli³em...
+					Dochodzi godzina 4, ja ci¹gle siedzê w kodzie, poprawiam drobnostki, które zwyk³y cz³owiek mia³by gdzieœ, z racji mojego pedantyzmu nie jestem w stanie tego przepuœciæ,
+					aktualnie z programowaniem mam love/hate relationship, z racji tego ¿e wystarczy jeden drobny b³¹d a ca³y kod mo¿e siê wysypaæ, jednak¿e jeœli wszystko zrobimy dobrze, strona
+					prezentuje siê fenomenalnie, co widaæ mimo mojego niewielkiego doœwiadczenia.
+					Kiedy zaczyna³em kurs w <a href="http://www.geekfactory.pl" target="blank">Geekfactory</a> myœla³em ¿e bêdzie to
+					nudny, ¿mudny i ciê¿ki do przetrawienia flak z olejem, wiadomo, najtañszy kurs w mojej okolicy, nie spodziewa³em siê zbyt wiele.
+					<a href="https://www.facebook.com/daniel.opic" target="blank">Daniel Opic</a> zaskoczy³ mnie wieloma rzeczami, swoj¹ otwartoœci¹
+					mimo wykonywanego zawodu, swoim poczuciem humoru oraz tym, ¿e aby programowaæ, wystaczy³a mu jedynie tablica i jego doœwiadczenie.
+					Postaw siê na moim miejscu, 21-letni ch³opak, wiecznie uzale¿niony od gier, techniki, z bogat¹ wyobraŸni¹ i marzeniem.
+					Nagle na twojej drodze ¿yciowej trafia siê ktoœ, kto za mikr¹ op³at¹ (zanim parskniesz, sprawdŸ sobie czytelniku, ile kosztuj¹ kursy programowania ,,normalnie")
+					daje ci wymarzone narzêdzia, oraz kopa w 4-litery na start. Ciê¿ko mi wyraziæ s³owami, jak¹ niezmiern¹ przyjemnoœæ czujê, mog¹c tworzyæ, przelaæ coœ na stronê,
+					stworzyæ w³asne "Magnum Opus".
+					Co o sobie mogê powiedzieæ? Wieczny marzyciel, uparty jak osio³ internetowy-troll, który ³atwo nie daje za wygran¹. Uwielbiam
+					zwierzaki, techologiê,gry komputerowy, fechtunek jêzykiem, psychologiê i broñ paln¹. Moim marzeniem jest posiadanie umiejêtnoœci
+					tworzenia bez ograniczeñ, czegokolwiek zapragnê, czy to gry czy to strony internetowe.
+						</p>

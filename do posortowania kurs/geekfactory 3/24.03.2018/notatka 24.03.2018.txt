@@ -1,0 +1,85 @@
+Transiton- oznacza nam w jakim czasie bêdziemy to animowaæ
+zapamiêtaj to!
+SEO - przypomnij sobie!!!
+auto- dostosowywanie o ile jest to element blokowy i posiada swoj¹ szerokoœæ. (centrowanie?)
+center center <zapytaj!> obrazek bêdzie na œrodku kontenera ( nie zawsze za³apuje 1 center)
+cover : naci¹ganie bez zmiany proporcji
+æwiczenia na geekfactory
+box-shadow - cieñ wewnêtrzny boxa
+{zapytaj siê jak tamto ma wygl¹daæ!}
+{poproœ o dodatkowe zadania!}
+.xyz:hover{
+transition}
+ELEMENT XYZ NIE DZIEDZICZY WTEDY TRANSITION
+.xyz{
+transition}
+.xyz:hover{
+TERAZ DOPIERO HOVER DZIEDZICZY TRANSITION}
+inny czas animacji pozwala uzyskaæ ciekawe efekty
+
+
+
+
+
+>>>>>dalsza notatka<<<<<
+dobry programista ma poczucie stylu
+my nie bêdziemy mieli przez d³u¿szy czas
+diabe³ tkwi w szczegó³ach
+
+
+
+
+
+>>>>>>>>>>>FILTRY<<<<<<<<<<<<<<<<
+NIE MYLIÆ Z GRADIENTAMI
+
+komenta : filter : np: blur (1px);
+
+
+>>>>>>>>>>>>>>>FLEXY<<<<<<<<<<<<
+		flex-direction:row;
+		justify-content:flex-start;
+domyœlne wartoœci!
+
+
+
+
+flex grow : podstawowa wartoœæ jednostki elementu
+np. flex grow 5= 5x szerszy
+flex shrink: elementy bêd¹ siê zmniejszaæ
+flex basic: 
+
+
+flexa na pewo na rozmowach o pracê bêd¹ wymagaæ
+podstawowe elementy
+flex wrap
+justify content
+czym siê ró¿ni display flex od inline
+
+
+ulubione pytanie rekruterów:
+programujemy z mobile do pc czy na odwrót
+
+powinno siê robiæ z telefonu na pc
+dlaczego?
+To wynika z domyœlnych wartoœci css
+
+Co z tego wiemy?
+Pierdolniêty maniak css <- rekruter
+
+
+
+inline nie dzia³a z osi¹ y
+jedna barwa ton ni¿ej
+druga ton wy¿ej
+fajne wciêcie
+
+
+.
+.
+.
+Undock = odczepianie konsoli
+
+
+@media mo¿na zrobiæ w jednym!!!
+javascrypt!

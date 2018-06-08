@@ -1,0 +1,11 @@
+.imagebox{
+	background-image:url("../img/1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+	width:400px;
+	height:200px;
+	border: 1px solid #333;
+	margin: 50px auto;
+	filter: blur(3px) grayscale(50%);
+}

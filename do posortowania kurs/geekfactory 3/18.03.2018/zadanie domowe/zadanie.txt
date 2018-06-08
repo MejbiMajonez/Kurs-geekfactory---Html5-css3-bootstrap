@@ -1,0 +1,33 @@
+Zrobiæ d³ug¹ stronê któr¹ mo¿na przewijaæ
+
+	Prawy górny róg (nie dokoñca) ikonka telefonu, position fix, animacja hover, z numerem telefonu
+
+
+
+-------------------------
+|			|
+|		--------|
+|		|TUTAJ!	|
+|		-------	|
+|			|
+|			|
+|			|
+|			|
+------------------------
+
+
+ZAD DOMOWE 2 (odwleczone w czasie)
+STRONA INTERNETOWA
+JAK NAJLEPIEJ J¥ ZROBIÆ
+KONKURS O PIWO
+
+
+
+
+ZADANIE DOMOWE 3
+galeria
+3x3
+na floatach
+wycentrowane
+cover
+po najechaniu na box dany box bêdzie siê powiêksza³

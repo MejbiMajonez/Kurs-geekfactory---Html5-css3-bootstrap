@@ -1,0 +1,33 @@
+przypomnij sobie z czego sk³ada siê html!
+display flex inline : display flex
+< przypomnij sobie!
+SEO
+przypomnij sobie!
+meta tagi
+jak do niego dotar³
+unikatowe opisy
+lepiej wprowadzaæ 5 dziennie
+dodawanie alt tagów
+volvo cross country
+
+>>>>>przypomnij sobie<<<<
+ease - ease out (funkcja czasowa) równa animacja
+ease out (animacja koñczy siê wolniej)
+ease in (animacja zaczyna siê szybciej)
+wyjustowanie - =====
+	       =====
+	       =====
+
+wycentrowanie - =====
+	      =========
+		====
+	     ==========
+
+animation : nazwa, czas, iloœæ powtórzeñ;
+kolejnoœæ w bootstrapie!
+najpierw jquery
+póŸniej bootstrap
+bo inaczej bootstrap nie bêdzie wiedzia³ ocb
+MOJE PLIKI
+ZAWSZE NA KOÑCU!!!!!!!!!!
+w pluginach jquery ma byæ na pocz¹tku!

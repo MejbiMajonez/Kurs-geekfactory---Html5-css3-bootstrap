@@ -1,0 +1,16 @@
+.box{
+	background:#F00;
+	padding:20px;
+	width:200px;
+	float:left;
+	
+}
+.box2{
+	background:#00F;
+	padding:20px;
+	width:200px;
+	margin:10px;
+}
+.clearfix{
+	clear:both;
+}

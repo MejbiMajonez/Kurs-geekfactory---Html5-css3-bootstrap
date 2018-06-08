@@ -1,0 +1,23 @@
+>>>>>>>>>>>>>>>Przypomnij sobie!!!!<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+margin bottom,right
+padding, margin
+tag link
+line height
+display
+overflow
+
+poæwicz flowy!!!!
+
+pamiêtaj o z-index przy robieniu position:fixed!!!!!!!!!!
+do klasy odnosimy siê bez kropki!
+
+
+>>>>>>>>>>>>>ZRÓB PONOWNIE<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ZADANIE Z GALERI¥
+Z FLOATAMI
+
+>>>>>>>>>>>>>>>>>ZADANIE<<<<<<<<<<<<<<<<<<<<<<
+
+
+zapytaj daniela o mo¿liwoœci zabezpieczenia kodu!!! (np masz w³asny kod i nie chcesz
+¿eby ktoœ sobie go przyw³aszczy³ w firmie, jak to zabezpieczyæ!)
